@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/campbe72/cs352s14/a1'
+let g:netrw_dirhist_2='/home/campbe72/.fontconfig'
+let g:netrw_dirhist_3='/home/campbe72/Employee_Schedule/Employee_Schedule/.git'
+let g:netrw_dirhist_4='/home/campbe72/.oh-my-zsh'
