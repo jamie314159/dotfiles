@@ -1,4 +1,0 @@
-dotfiles
-========
-
-Hermit managed dotfiles
